@@ -10,6 +10,10 @@ Gintaras Ruočkus - atsakingas už žaidimo logiką
 
 Projekto bendrą aprašą ir vartotojo vadovą galima matyti Bokstu_gynyba.pdf
 
+Norint išbandyti žaidimą reikią parsisiųsti BuiltGame aplanką ir paleisti Bokštų gynyba.exe (PS. reikės dviejų ps4 kontrolerių).
+
+Norint atidaryti projektą per Unity reika tik Bokštų gynyba aplanko.
+
 Vaikščiojimo logika - 
 
 kadangi žemėlapiai nėra generuojami, tai buvo nuspręsta tiesiog sudėti kiekvienam žemėlapiui vaikščiojimo laukus ir nurodyti juose laukelius, kuriuose negalima dėti boškto. Vaikščiojimui per laukelius reikia nurodyti kiek yra laukelių stupelyje ir eilėje. Programoje saugomas dabartinis laukelis ir ėjimas skaičiuojamas pagal esamą laukelį naudojant žinomą laukelių stulpelių ir eilučių skaičių. (movement.cs)
